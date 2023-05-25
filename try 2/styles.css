@@ -1,0 +1,30 @@
+body {
+    background-color: #333333;
+    color: #FFFFFF;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 28px;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  a {
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
